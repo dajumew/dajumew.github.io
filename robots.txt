@@ -1,1 +1,14 @@
 User-agent: *
+Allow: /post/
+Allow: /about.html
+Allow: /flinks.html
+Disallow: /page/
+Disallow: /archives/
+Disallow: /tags/
+Disallow: /images/
+Disallow: /imgs/
+Disallow: /css/
+Disallow: /js/
+Disallow: /index.html
+
+Sitemap: https://dajumew.github.io/sitemap.xml
