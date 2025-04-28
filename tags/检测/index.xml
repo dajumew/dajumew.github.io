@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>检测 on 大橘博客</title><link>https://dajumew.github.io/tags/%E6%A3%80%E6%B5%8B/</link><description>Recent content in 检测 on 大橘博客</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>&amp;copy; 2006 - {year} Daju</copyright><lastBuildDate>Tue, 23 Aug 2022 15:01:33 +0800</lastBuildDate><atom:link href="https://dajumew.github.io/tags/%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>检测甘斯反应器生成磁场的方法</title><link>https://dajumew.github.io/post/method-for-detecting-magnetic-field-of-gans-reactor.html</link><pubDate>Tue, 23 Aug 2022 15:01:33 +0800</pubDate><atom:modified>Tue, 23 Aug 2022 15:01:33 +0800</atom:modified><guid>https://dajumew.github.io/post/method-for-detecting-magnetic-field-of-gans-reactor.html</guid><description>&lt;p>前一阵子看到网上有自称卖甘斯反应器的商家说，目前没有仪器可以检测甘斯反应器生成的磁场，想知道有没有成功生成等离子磁场，需要你用心去感受，总之就是类似的说辞吧。我想说这纯属扯淡和误导，我刚开始看了凯史教学一点点，就知道有如下方法来检测。&lt;/p></description><content:encoded>&lt;p>前一阵子看到网上有自称卖甘斯反应器的商家说，目前没有仪器可以检测甘斯反应器生成的磁场，想知道有没有成功生成等离子磁场，需要你用心去感受，总之就是类似的说辞吧。我想说这纯属扯淡和误导，我刚开始看了凯史教学一点点，就知道有如下方法来检测。&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>凯史在第34次知识寻求者教学中讲过，他们用阿尔法、贝塔和伽马探测仪检测到对反应器的磁场的感应。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>凯史在第32次知识寻求者教学教学中讲过，他们发现反应器的磁场在一定范围内可以屏蔽收音机信号，所以可以用收音机来检测。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>另外甘斯反应器生成的磁场和地球的磁场是同一性质的，按照凯史的理论和术语说，都是等离子磁场，而且甘斯反应器的实验证实了这一点，实验中反应器有重量减轻的现象发生，这说明反应器磁场和地球磁场相互作用导致减重，说明他们的磁场是同一性质的，所以能检测地球磁场的仪器就能检测甘斯反应器的磁场。Keshe实验室那台生成129特斯拉的反应器从视频里看是用特斯拉计检测的。凯史所以要去定制仪器，是因为反应器的磁场超出了一般磁场检测仪器的量程（一般不超过3T），所以需要专门定制大量程检测仪，它和普通的检测仪原理是一样的，差别在于量程和精度。所以可以用特斯拉计来检测，还可以通过称量反应器的重量有没有发生改变来判断反应器是否成功生成磁引力场。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>网上用乒乓球做的反应器&lt;a href="https://www.bilibili.com/video/bv1Da4y1n7Zh">那个视频&lt;/a>里是用（核辐射）个人剂量仪检测的。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>最近在哔站偶然看到，&lt;a href="https://www.bilibili.com/video/BV1x64y1A7ay/">凯史第521次知识寻求者研讨会&lt;/a>14:03处讲到他们使用不同的传感工具进行实验，可视化 Magrav 场，也就是说可以检测到场。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>至于其它的检测方法目前我还不知道，凯史的教学我还没看完。以后看到别的检测方法或仪器会更新到此文中。&lt;/p>
+&lt;p>需要提醒的是，检测仪器有可能买到假的，看&lt;a href="https://www.youtube.com/watch?v=PVNdG6gO-zo">这款核辐射检测仪&lt;/a>，里面装盖革计数管的位置是空的，但是仍然能显示数据，而且数据不断变化，跟真的似的，这应该是里面电路板（芯片？）有猫腻，可以设计得不需要管子就能显示仿真数据。&lt;/p></content:encoded><dc:creator>Daju</dc:creator><category>甘斯反应器</category><category>磁场</category><category>检测</category><category>技术反控</category></item></channel></rss>
